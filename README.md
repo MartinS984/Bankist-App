@@ -8,5 +8,5 @@ Request a loan from the bank
 Delete their account
 Log in credentials:
 
-username: js | password: 1111
+username: ms | password: 1111
 username: jd | password 2222
